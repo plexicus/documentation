@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const organizationName = "plexicus";
-const projectName = "docs";
+const projectName = "documentation";
 const baseUrl = `/${projectName}/`;
 
 const config: Config = {
